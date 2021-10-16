@@ -18,6 +18,7 @@ public class AppTest {
     @Test
     public void test3(){
         System.out.println("Running test 3");
+        Assert.fail();
     }
 
     @Test
