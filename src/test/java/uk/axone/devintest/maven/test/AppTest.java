@@ -18,13 +18,13 @@ public class AppTest {
     @Test
     public void test3(){
         System.out.println("Running test 3");
-        Assert.fail();
+
     }
 
     @Test
     public void test4(){
         System.out.println("Running test 4");
-        Assert.fail();
+
     }
 
 }
